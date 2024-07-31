@@ -6,5 +6,7 @@ Handling Procedures: The application offers guidance on handling procedures for 
 Cybercrime Database: Includes a database functionality that allows users to store and manage details of cybercrime cases. Each entry in the database includes:
 
 Case ID: A unique identifier for each case.
+
 Crime Description: A detailed description of the crime.
+
 Crime Type: Classification of the type of cybercrime.
